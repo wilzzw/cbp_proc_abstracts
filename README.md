@@ -22,3 +22,7 @@ Then, it uses BeautifulSoup python library to parse the html and extract the abs
 ```
 python process_abstracts.py
 ```
+
+## Known issues
+
+- The script does not work on doc files. It only works on docx files.
